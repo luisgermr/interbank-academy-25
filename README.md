@@ -16,4 +16,5 @@ El enfoque de este proyecto es de brindar al usuario la posibilidad de indicar e
 El proyecto cuenta con dos archivos en la raiz
    - **processing.py** - Lógica del programa
    - **README.md** - Documentación
+
 Adicionalmente se encuentra la carpeta input. La cual contiene los archivos .csv que serán utilizados por el programa.
